@@ -5,7 +5,7 @@
 
     Functions:
         get_user_name(): Prompts the user to enter their name and returns it.
-        greet_user(name): Prints a greeting message using the provided name.
+        greet_user(name): Prin  ts a greeting message using the provided name.
         main(): Main function that orchestrates the user input and greeting process.
 
     Execution:
